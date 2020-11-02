@@ -138,5 +138,5 @@ def main(inURL):
 	writeList(inURL, adList, newFile)
 
 if __name__ == "__main__":
-	url = "https://easylist-downloads.adblockplus.org/easylist.txt"
+	url = "https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt"
 	main(url)
